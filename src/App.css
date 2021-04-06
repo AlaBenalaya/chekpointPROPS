@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-image: url("https://media.gettyimages.com/photos/tunisian-club-africains-supporters-wave-flags-and-burn-flares-during-picture-id631007174?s=2048x2048");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.class {
+  display: flex;
+  justify-content: center;
+  border-radius: 30px;
+  border-color: black;
+  border-collapse: separate;
+  border-bottom-color: gray;
+  margin: 10%;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  background: none;
+}
+.club {
+  color: red;
+  background-color: black;
+}
+.africain {
+  color: darkgrey;
+}
+.cc {
+  background: black;
+}
